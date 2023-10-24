@@ -13,11 +13,13 @@ Currently, I am in the engineering design process's first stage, where identifyi
 
 ## Skills 
 
-#### Problem decomposition
+#### Attention to detail
+Paying attention to details is a skill that i had develop. Being able to pay attention can help me find mistakes in my writings or problems and I can be able to fix that easily. Also, paying attention to details can help me find specfic facts or information when it comes to reading articles or stories that will help me with my project. It is important for me to use this skill because it  minimize errors, improved my quality of work, avoid overlooking mistakes, and catching mistakes early on instead of fixing it later on.
 
 #### Time management
 
-#### Organization or Creativity 
+
+#### Organization
 
 ## Professionalism 
 
