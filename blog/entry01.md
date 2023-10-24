@@ -11,5 +11,17 @@ Two links that I use to observe was ["Neuroendoscopy"](https://www.moffitt.org/c
 ## Engineering Design Process (EDP)
 Currently, I am in the engineering design process's first stage, where identifying the problem is the process. I intend to use my project for solving this particular problem. The problem I want to solve is how do we understand how does a brain tumor actually happens. I want to inform people about the problem. I am now researching on information to help me solve my problem.
 
+## Skills 
+
+#### Problem decomposition
+
+#### Time management
+
+#### Organization or Creativity 
+
+## Professionalism 
+
+## Summary
+
 [Next](entry02.md)
 [Home](../README.md)
