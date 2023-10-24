@@ -9,6 +9,7 @@ For my year-long project, my project I had chosen is **neuroendoscopy**. Neuroen
 Two links that I use to observe was ["Neuroendoscopy"](https://www.moffitt.org/cancers/brain-cancer/treatment/surgery/neuroendoscopy/) which tells me the what neuroendoscopy and how it can be performed, and ["Brain tumor"](https://www.mayoclinic.org/diseases-conditions/brain-tumor/symptoms-causes/syc-20350084) which tells me how the brian tumor grows and there are many types of different tumors but some are not cancerous. Some other links I had observe was ["Brain Surgery"](https://my.clevelandclinic.org/health/treatments/16802-brain-surgery) and ["Neuroendoscopy: history, endoscopes, and instrumentation"](https://link.springer.com/article/10.1007/s00381-023-06090-0) which both gives me more information to help me with my other sources.
 
 ## Engineering Design Process (EDP)
+Currently, I am in the engineering design process's first stage, where identifying the problem is the process. I intend to use my project for solving this particular problem. The problem I want to solve is how do we understand how does a brain tumor actually happens. I want to inform people about the problem. I am now researching on information to help me solve my problem.
 
 [Next](entry02.md)
 [Home](../README.md)
