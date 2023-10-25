@@ -12,15 +12,17 @@ Currently, I am in the engineering design process's first stage, where identifyi
 
 ## Skills 
 
+
 #### Attention to detail
 Paying attention to details is a skill that i had develop. Being able to pay attention can help me find mistakes in my writings or problems and I can be able to fix that easily. Also, paying attention to details can help me find specfic facts or information when it comes to reading articles or stories that will help me with my project. It is important for me to use this skill because it  minimize errors, improved my quality of work, avoid overlooking mistakes, and catching mistakes early on instead of fixing it later on.
 
 #### Time management
-
+Some days I am very busy with things outside of school or home and even sometimes I am unable to do my work on time. I have yoga 9th period on tuesday and thursday which limits my time to do work and I cannot skip those. I do hang out with friends daily but I will limit that considering I am getting more work each day and only hang out with them when I am free, like no HW's or little to no HW's. I also have SAT prep and HW which makes my time each day more cramp because SAT HW is extremley hard and I do not understand any of those but I will try to focus on school homework first. Benefits of time management is that it gives me less stress, helps me managing my time reduces, gives me greater focus, higher levels of productivity, less procrastination, makes things are simpler and easier, and Less distraction.
 
 #### Organization
+Developing organizational abilities allowed me to make effective and efficient use of my resources. When I am well-organized, I am able to efficiently organize my time, energy, and workspace and complete all of the tasks that have been given to me. Everytime I organize my work I realized that it had helped me increased productivity and improved performance on what I was doing. Organizational abilities can be helpful when my things are really messy and I can't seem to find anything but if I redo everything in a specific order or place the work where they belong, it would help me understand and the viewers being able to find things without struggling.
 
-## Professionalism 
+## Professionalism  
 
 ## Summary
 
