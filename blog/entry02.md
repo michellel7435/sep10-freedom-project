@@ -2,8 +2,6 @@
 ##### X/X/XX
 
 ## Content 
-What you found: the info you have gathered regarding the software + hardware technologies you found in your topic. Go into detail! 
-How you found it: What searches did you do? How did you have to revise your search(es)? [you’re telling a story about what you’ve been doing since writing Blog 1]
 
 There were two types of researches I was mainly focusing on, which is software and hardware technologies that were used for neuroendoscopy (my topic). Software is a type or part of technology produced by people, allows user to perform particular task or process using computer or any technological device while hardware Technology refers to the physical components of a computer. Computer Hardware is any part of the computer that we can touch these parts (tools). For my topic I was able to find multiple software and hardware technologies. 
 
