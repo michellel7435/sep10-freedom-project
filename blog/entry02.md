@@ -9,7 +9,7 @@ There were two types of researches I was mainly focusing on, which is software a
 
 Software technologies such as apps that relates to my topic in which enhance our knowledge. An app such as [Surgeon's Brain : A General Surgery Reference Companion](https://apps.apple.com/us/app/surgeons-brain-a-general-surgery-reference-companion/id1061429200 ) which gives general knowledge to prepare for exams and presentations, easy follwed formats that are understable, and includes up to date references. There are many more apps I explore, another app I found useful is [WebMD: Symptom Checker](https://apps.apple.com/us/app/webmd-symptom-checker/id295076329). I found this app useful because this app is able to checks and track your symptoms, creating medication reminders, and you’re able to find doctors and book appointment too. These software apps can give me understanding on neuroendoscopy and how I want to make my webpage look like, it give me so much information that can help me with my freedom project.
 
-Hardware technologies such as tools that gives us a visual on how neuroendoscopy can be treated/used. 
+Hardware technologies such as tools that gives us a visual on how neuroendoscopy can be treated/used. A took such as the [MRI scan](https://www.kth.se/polopoly_fs/1.632263.1599187676!/image/MRI_Photo_1.jpg) that is used for  disease detection, diagnosis, and treatment monitoring, 
 
 
 
