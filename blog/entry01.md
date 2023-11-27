@@ -22,6 +22,10 @@ Some days I am very busy with things outside of school or home and even sometime
 #### Organization
 Developing organizational abilities allowed me to make effective and efficient use of my resources. When I am well-organized, I am able to efficiently organize my time, energy, and workspace and complete all of the tasks that have been given to me. Everytime I organize my work I realized that it had helped me increased productivity and improved performance on what I was doing. Organizational abilities can be helpful when my things are really messy and I can't seem to find anything but if I redo everything in a specific order or place the work where they belong, it would help me understand and the viewers being able to find things without struggling.
 
+## Next Steps
+
+I would like to enhance my knowledge of neuroendoscopy and make a whole visual page on my topic.
+
 
 
 [Next](entry02.md)
