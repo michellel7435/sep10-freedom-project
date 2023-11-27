@@ -25,7 +25,7 @@ Hardware technologies such as tools that gives us a visual on how neuroendoscopy
 
 
 #### How to Google
-
+Knowing how to google is important because there is simple ways to find things you are looking for fast and simple. For example when coming to researching things, I did not know what to start researching things, like was it this or that? I realized researching things based off of what my topic is and what i'm looking for, like "brain sugery apps". Knowing how to google is about understanding what I am looking for and seeking the answer to my questions and using shortcuts like "ctrl" "f" which let's me search a specific word and find it quicker.
 
 #### Consideration
 
