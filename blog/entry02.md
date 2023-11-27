@@ -1,8 +1,14 @@
-# Entry 2
+# Entry 2: Neuroendoscopy
 ##### X/X/XX
 
-Text
+## Topic: 
 
-[Previous](entry01.md) | [Next](entry03.md)
+## Sources
 
-[Home](../README.md)
+
+## Engineering Design Process (EDP)
+
+## Skills 
+
+
+## Next Steps
