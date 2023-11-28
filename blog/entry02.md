@@ -1,5 +1,5 @@
 # Entry 2: Neuroendoscopy
-##### X/X/XX
+##### 11/28/23
 
 ## Content 
 
@@ -23,3 +23,4 @@ Knowing how to google is important because there is simple ways to find things y
 There was consideration where I want to do other topics like law but I think to myself which would be more important for my viewers. It was between law or neuroendoscopy so i chose neuroendoscopy because I found it beneficial and it was a topic I am into. Creating the topic neuroendoscopy can impact people's knowledge on this and help them give a visual of what I created. I don't think there would be a negative impact of what I create but some may disagree of what I create. Consideration can be important to know what our viewers will think or what they will see.
 
 ## Next Steps
+I would like to be able to add on to what I have already and make it into something bigger and understable as my next step.
