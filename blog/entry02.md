@@ -20,6 +20,6 @@ I was able to grow my mindset doing the software and hardware researches because
 Knowing how to google is important because there is simple ways to find things you are looking for fast and simple. For example when coming to researching things, I did not know what to start researching things, like was it this or that? I realized researching things based off of what my topic is and what i'm looking for, like "brain sugery apps". Knowing how to google is about understanding what I am looking for and seeking the answer to my questions and using shortcuts like "ctrl" "f" which let's me search a specific word and find it quicker. Knowing how to google can help me save time and have stronger answers.
 
 #### Consideration
-
+There was consideration where I want to do other topics like law but I think to myself which would be more important for my viewers. It was between law or neuroendoscopy so i chose neuroendoscopy because I found it beneficial and it was a topic I am into. Creating the topic neuroendoscopy can impact people's knowledge on this and help them give a visual of what I created. I don't think there would be a negative impact of what I create but some may disagree of what I create. Consideration can be important to know what our viewers will think or what they will see.
 
 ## Next Steps
