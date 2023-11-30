@@ -22,3 +22,7 @@ There was consideration of where I want to do other topics like law but I think 
 
 ## Next Steps
 I would like to be able to add on to what I have already and make it into something bigger and understandable as my next step.
+
+[Previous](entry01.md) | [Next](entry03.md)
+
+[Home](../README.md)
