@@ -1,7 +1,13 @@
-# Entry 3
+# Entry 3: Neuroendoscopy
 ##### X/X/XX
 
-Text
+## Content 
+
+
+## Skills 
+
+
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
