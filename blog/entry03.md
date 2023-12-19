@@ -2,7 +2,7 @@
 ##### X/X/XX
 
 ## Content 
-
+I mainly focused on 
 
 ## Skills 
 
