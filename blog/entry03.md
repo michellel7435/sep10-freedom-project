@@ -2,8 +2,7 @@
 ##### X/X/XX
 
 ## Content 
-I mainly focused on brainstorming part B and finializing my content. 
-
+I mainly focused on brainstorming part B and finializing my content. For this I was able to add on to part A (researching hardware and sofeware technologies) 
 ## Skills 
 
 #### Organization
