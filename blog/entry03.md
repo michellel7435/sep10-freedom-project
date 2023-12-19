@@ -2,7 +2,7 @@
 ##### X/X/XX
 
 ## Content 
-I mainly focused on 
+I mainly focused on brainstomring part B and finializing my content. 
 
 ## Skills 
 
