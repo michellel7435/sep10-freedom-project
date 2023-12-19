@@ -11,6 +11,18 @@ and more efficient tools (ex. AI) on sight. Along with a website, there should a
 ## Skills 
 
 #### Organization
+I was able to develop this skill because when I was brainstorming part B and finializing my content, everything was messy and research/information were out of place which got me so confused on whats what. I was able to organize my unorganized notes and turn it into something neater which bullet points. This benefitted my workspace and my work because without this, everything would've been a mess and I wouln't even find anything that I was looking for. For example, my notes used to be so clutter up with links that I don't know where it leads too. I was able to solve this by typing a specific word about the link and link my URL to the text helps me know what that URL is.
+
+Before:
+
+![image (2)](https://github.com/michellel7435/sep10-freedom-project/assets/146866515/efe4bb3b-4c75-4ef2-a29d-c930749d9ab5)
+
+After:
+
+![image](https://github.com/michellel7435/sep10-freedom-project/assets/146866515/d37d5695-32d1-48c6-8cfd-4c4f156c001b)
+
+
+
 
 #### Creativity
 
