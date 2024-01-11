@@ -6,6 +6,7 @@ I mainly focused on brainstorming part B and finalizing my content. For this I w
 Future innovations that I came up with is a **high brain tech scanner** which would allow us to give a clear scan of the brain, also providing a high quality picture. This innovation can also provide us with important information about the brain that was scanned. **An improvement AI scanner** is another future innovation I came up with. As you know AI is intelligent but with this AI, it is going to be an improvement of the original AI which can be more efficient and beneficial. This AI would allow more accuracy when giving information and images about the brain, also including the problem with the solution. This could also make a 3D model of the brain. I also decided to talk about how there should be **a website about future innovation and 3D models**. With this website it could benefit minds, like doctors, surgeons, etc. This would include a high tech 3D printer 
 and more efficient tools (ex. AI) on sight. Along with a website, there should also be **an app that has visuals of the brain with the common problems**. This app would be really informative as well telling you what you should do and what you should not do.
 
+## Engineering Design Process (EDP)
 
 
 ## Skills 
