@@ -1,5 +1,5 @@
 # Entry 3: Neuroendoscopy
-##### X/X/XX
+##### 12/22/23
 
 ## Content 
 I mainly focused on brainstorming part B and finalizing my content. For this I was able to add on to part A (researching hardware and software technologies), what I was able to add on was future innovation for my topic. 
@@ -7,7 +7,7 @@ Future innovations that I came up with is a **high brain tech scanner** which wo
 and more efficient tools (ex. AI) on sight. Along with a website, there should also be **an app that has visuals of the brain with the [common problems](https://www.healthline.com/health/brain-disorders)**. This app would be really informative as well telling you what you should do and what you should not do.
 
 ## Engineering Design Process (EDP)
-
+Currently, I am in the engineering design process's third stage stage, where brainstorming possible solutions is the process. I intend to find the solutions to curing brain problems such as brain cancer. WIth this I needed to find tools from present day and future innovation that can be more efficient to being the solution to curing brain problems.
 
 ## Skills 
 
