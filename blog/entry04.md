@@ -7,14 +7,11 @@ I had to choose between many tool options that I can use for my freedom project.
 In JSBin I was able to test out the code for myself as shown below. The blocks (the circle and square) are able to move when I click the arrows (up, down, left, right) to the direction I am clicking the arrow.
 <img width="2042" alt="Screen Shot 2024-02-12 at 12 50 28 PM" src="https://github.com/michellel7435/sep10-freedom-project/assets/146866515/024a964c-3c4f-48a0-aeea-c03e167b4f64">
 
-
-## Engineering Design Process (EDP)
-
-
-
-
 ## Skills 
 
+### How to learn
+
+### How to google
 
 ## Next Steps
 
