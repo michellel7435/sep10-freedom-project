@@ -9,9 +9,10 @@ In JSBin I was able to test out the code for myself as shown below. The blocks (
 
 ## Skills 
 
-### How to learn
+#### How To Google
+For this step I had to learn how to google because when I found my tool "Aframe" I had to research it which includes searching on google. I had to learn how to google because if I do I can search for the right information that I need easily instead of regoogling it over and over again trying to look for what I need. This can benefit my time
 
-### How to google
+#### Problem Decomposition
 
 ## Next Steps
 
