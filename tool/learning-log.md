@@ -23,8 +23,22 @@ Questions
 What I will try next
 * What I will try next is to try to make my own instead of using HTML code examples.
 
-X/X/X:
-* Text
+03/06/2024:
+What I tried
+* I tried to tinker around and try to make my own code by doing the same formatting of [Aframe](https://aframe.io/docs/1.5.0/introduction/) but trying to make every shape moveable and interactive.
+* Progress I was able to make is learning how to make each shape from the format move even if it does work as well
+
+
+Challenges
+* Challenges I had was understanding the how to make each object moveable and understanding what I am doing so it won't feel as messy so I try to stay organize with my code. It took me so long to understand how to make a single shape move so I can use it as a model for my freedom project.
+
+Questions
+* Is it possible for me to have a 3D model brain?
+* How can I make this so people can interact with my work?
+
+What I will try next
+* What I will try next is adding more and doing the same thing so I can understand the code more.
+
 
 X/X/X:
 * Text
