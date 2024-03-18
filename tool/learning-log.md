@@ -48,6 +48,9 @@ What I tried:
 Challenges:
 * I had problem understaning the movements but I was eventually able to get it in the end using videos and researching.
 
+What I will try next:
+* Next time i would like to do my layout, basically starting my project a little.
+
 X/X/X:
 * Text
 
