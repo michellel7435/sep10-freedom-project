@@ -41,7 +41,12 @@ What I will try next
 
 
 3/17/24:
-* Text
+What I tried:
+* This time I tried to be more creative and try to do objects that are related to the topic I tired.
+* I also tried new codes such as adding more different object making them all move seperately.
+
+Challenges:
+* I had problem understaning the movements but I was eventually able to get it in the end using videos and researching.
 
 X/X/X:
 * Text
