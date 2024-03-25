@@ -51,8 +51,16 @@ Challenges:
 What I will try next:
 * Next time i would like to do my layout, basically starting my project a little.
 
-X/X/X:
-* Text
+03/21/24:
+What I tried:
+* This time I tried to be more creative and added color and try doing a different shape to match the topic I chose
+* I also tried to add shadow to my objects to make it look more realistic
+
+Challenges:
+* I had problems when trying to add a diffrent shape with texture
+
+What I will try next:
+- Next time I will try to go above and beyond with my code and make it more better
 
 X/X/X:
 * Text
