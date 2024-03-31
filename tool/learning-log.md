@@ -64,21 +64,15 @@ What I will try next:
 
 03/25/24:
 What I tried:
-* This time I tried to be more creative and added color and try doing a different shape to match the topic I chose
-* I also tried to add shadow to my objects to make it look more realistic
+* I tired to make a background color that fits my code space trying to make the shape have a shadow on it so it looked more realistic.
 
 Challenges:
-* I had problems when trying to add a diffrent shape with texture
+* When doing this, I messed up on my code a little which made me confused and lost because the code wasn't work but eventually I figured it out.
 
 What I will try next:
-- Next time I will try to go above and beyond with my code and make it more betterWhat I tried:
+* What I will try next is that I want to make some text when the shape is moved over there
 
 
-Challenges:
-* I had problems when trying to add a diffrent shape with texture
-
-What I will try next:
-- Next time I will try to go above and beyond with my code and make it more better
 
 <!--
 * Links you used today (websites, videos, etc)
