@@ -80,7 +80,7 @@ Challenges:
 * The challenges I had was understanding how it works and how 3D models work. I t was hard to understand the concept and I was unable to understand it but I understand how to import images
 
 What I will try next:
-* What I will try next is that I want to make some text when the shape is moved over there
+* What I will try next is I will try to understand how to make a 3D model
 
 
 
