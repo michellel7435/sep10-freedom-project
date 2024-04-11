@@ -22,7 +22,7 @@
 * [Anonymous Pro](https://www.fontpair.co/fonts/anonymouspro)
 * [Anton](https://www.fontpair.co/fonts/anton)
 * [Fuzzy Bubbles](https://www.fontpair.co/fonts/fuzzybubbles)
-* []()
+* [Nunito](https://www.fontpair.co/fonts/nunito)
 
 ## Timeline
 
