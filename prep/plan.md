@@ -16,7 +16,13 @@
 * #060D9C (dark blue)
 
 ## Fonts
-* [Text](URL)
+* [A note](https://www.fontpair.co/fonts/anote)
+* [Action Man](https://www.fontpair.co/fonts/actionman)
+* [Alice](https://www.fontpair.co/fonts/alice)
+* []()
+* []()
+* []()
+* []()
 
 ## Timeline
 
