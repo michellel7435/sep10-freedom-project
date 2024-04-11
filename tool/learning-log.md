@@ -87,11 +87,10 @@ What I tried:
 * I tried to understand how 3D model would work so I was watching videos and going through pages to know the codes and how to make my own 3D model.
 
 Challenges:
-* The challenges I had was understanding how it works and how 3D models work. I t was hard to understand the concept and I was unable to understand it but I understand how to import images
+* Challenges was trying to take in all the information and use it when I coundln't comprehend it well.
 
 What I will try next:
-* What I will try next is I will try to understand how to make a 3D model
-
+* What I will try next is to try and make a 3D model but if not I will want to learn more
 
 <!--
 * Links you used today (websites, videos, etc)
