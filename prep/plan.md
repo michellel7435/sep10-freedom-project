@@ -11,7 +11,9 @@
 * #f5c3c5 (medium pink)
 * #D97BFF (medium purple)
 * #E8AFFF (light purple)
-
+* #530771 (dark purple)
+* #8FEEFF (light blue)
+* #
 
 ## Fonts
 * [Text](URL)
