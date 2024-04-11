@@ -13,7 +13,7 @@
 * #E8AFFF (light purple)
 * #530771 (dark purple)
 * #8FEEFF (light blue)
-* #
+* #060D9C (dark blue)
 
 ## Fonts
 * [Text](URL)
