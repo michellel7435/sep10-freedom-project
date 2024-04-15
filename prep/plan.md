@@ -1,8 +1,10 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile 1](mobile1.png)
+* [Mobile 2](mobile2.png)
+* [Desktop 1](pc1.png)
+* [Desktop 2](pc2.png)
 
 ## Colors
 * #ffffff (white)
@@ -25,7 +27,7 @@
 * [Nunito](https://www.fontpair.co/fonts/nunito)
 
 ## Timeline
-
+- 
 #### MVP
 
 * Task/Timeline
