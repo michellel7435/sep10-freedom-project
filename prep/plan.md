@@ -27,8 +27,8 @@
 * [Nunito](https://www.fontpair.co/fonts/nunito)
 
 ## Timeline
-- 4/15/24, work on the timeline and understand my format better
-- 
+* 4/15/24, work on the timeline and understand my format better
+* 4/16/24 - 
 #### MVP
 
 * Task/Timeline
