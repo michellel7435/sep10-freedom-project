@@ -28,7 +28,7 @@
 
 ## Timeline
 * 4/15/24, work on the timeline and understand my format better
-* 4/16/24 - 
+* 4/16/24 - 4/22/24, start coding my format and adding my content
 #### MVP
 
 * Task/Timeline
