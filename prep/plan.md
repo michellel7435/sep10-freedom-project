@@ -27,6 +27,7 @@
 * [Nunito](https://www.fontpair.co/fonts/nunito)
 
 ## Timeline
+- 4/15/24, work on the timeline and understand my format better
 - 
 #### MVP
 
