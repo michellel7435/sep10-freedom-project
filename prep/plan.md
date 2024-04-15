@@ -28,7 +28,7 @@
 
 ## Timeline
 * 4/15/24, work on the timeline and understand my format better
-* 4/16/24 - 5/1/24, start coding my format/layout and adding my content
+* 4/16/24 - 5/1/24, start coding my format/layout and adding my content. I will add my components and do columns and rows, doing my mobile layout. I will do everything during that week because I feel like its more easier to understand when I am doing it all together.
 #### MVP
 
 * Task/Timeline
