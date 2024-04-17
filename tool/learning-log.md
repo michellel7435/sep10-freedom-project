@@ -74,7 +74,7 @@ What I will try next:
 
 04/08/24:
 What I tried:
-* I tired to import a code of a brain as a demostration and so it can give me an idea of what to do. Then I started watching videos of how to make my own 3D models and imports photos.
+* I tried to import a code of a brain as a demostration and so it can give me an idea of what to do. Then I started watching videos of how to make my own 3D models and imports photos.
 
 Challenges:
 * The challenges I had was understanding how it works and how 3D models work. I t was hard to understand the concept and I was unable to understand it but I understand how to import images
