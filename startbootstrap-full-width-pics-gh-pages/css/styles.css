@@ -5782,7 +5782,10 @@ textarea.form-control-lg {
   padding: var(--bs-popover-body-padding-y) var(--bs-popover-body-padding-x);
   color: var(--bs-popover-body-color);
 }
-
+.brain {
+  width: 100 px;
+  height: 100 px;
+}
 .carousel {
   position: relative;
 }
