@@ -5782,10 +5782,9 @@ textarea.form-control-lg {
   padding: var(--bs-popover-body-padding-y) var(--bs-popover-body-padding-x);
   color: var(--bs-popover-body-color);
 }
+
 .brain {
-  position: absolute;
-  height: auto;
-  width: auto;
+  
 }
 
 
