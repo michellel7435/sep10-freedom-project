@@ -5783,8 +5783,9 @@ textarea.form-control-lg {
   color: var(--bs-popover-body-color);
 }
 .brain {
-  width: 00px;
-  height: 100px;
+  width: 1365px;
+  height: 1365px;
+  text-align: center;
 }
 
 
