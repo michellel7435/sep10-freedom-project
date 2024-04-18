@@ -18,12 +18,12 @@
 * #060D9C (dark blue)
 
 ## Fonts
-* [Sniglet](https://fonts.google.com/)
-* [Coustard](https://www.fontpair.co/fonts/actionman)
-* [Alice](https://www.fontpair.co/fonts/alice)
-* [Anonymous Pro](https://www.fontpair.co/fonts/anonymouspro)
-* [Anton](https://www.fontpair.co/fonts/anton)
-* [Fuzzy Bubbles](https://www.fontpair.co/fonts/fuzzybubbles)
+* [Sniglet](https://fonts.google.com/specimen/Sniglet)
+* [Coustard](https://fonts.google.com/specimen/Coustard)
+* [Sigmar One](https://fonts.google.com/specimen/Sigmar+One)
+* [Aboreto](https://fonts.google.com/specimen/Aboreto)
+* [Lexend Peta](https://fonts.google.com/specimen/Lexend+Peta)
+* [Patrick Hand SC](https://fonts.google.com/specimen/Patrick+Hand+SC)
 * [Nunito](https://www.fontpair.co/fonts/nunito)
 
 ## Timeline
