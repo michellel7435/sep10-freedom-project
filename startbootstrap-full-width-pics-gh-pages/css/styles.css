@@ -1290,6 +1290,8 @@ progress {
     flex: 0 0 auto;
     width: 50%;
     font-size: 30px;
+    font-family: Aboreto;
+    text-align: center;
   }
   .col-lg-7 {
     flex: 0 0 auto;
