@@ -24,7 +24,7 @@
 * [Aboreto](https://fonts.google.com/specimen/Aboreto)
 * [Lexend Peta](https://fonts.google.com/specimen/Lexend+Peta)
 * [Patrick Hand SC](https://fonts.google.com/specimen/Patrick+Hand+SC)
-* [Nunito](https://www.fontpair.co/fonts/nunito)
+* [Pompiere](https://fonts.google.com/specimen/Pompiere)
 
 ## Timeline
 * 4/15/24, work on the timeline and understand my format better
