@@ -18,8 +18,8 @@
 * #060D9C (dark blue)
 
 ## Fonts
-* [A note](https://www.fontpair.co/fonts/anote)
-* [Action Man](https://www.fontpair.co/fonts/actionman)
+* [Sniglet](https://fonts.google.com/)
+* [Coustard](https://www.fontpair.co/fonts/actionman)
 * [Alice](https://www.fontpair.co/fonts/alice)
 * [Anonymous Pro](https://www.fontpair.co/fonts/anonymouspro)
 * [Anton](https://www.fontpair.co/fonts/anton)
