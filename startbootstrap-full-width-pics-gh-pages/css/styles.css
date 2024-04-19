@@ -492,6 +492,19 @@ progress {
   font-weight: 300;
 }
 
+.topic {
+  font-size: 30px;
+  font-weight: 300;
+  font-family: Pompiere;
+}
+
+.context {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.
+
 .display-1 {
   font-size: calc(1.625rem + 4.5vw);
   font-weight: 300;
