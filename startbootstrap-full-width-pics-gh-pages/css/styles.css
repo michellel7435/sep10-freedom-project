@@ -510,11 +510,16 @@ progress {
   font-weight: 300;
   font-family: Patrick Hand SC;
 }
-
 .existing{
   width: 400px;
   height: 400px;
 }
+
+.future {
+  width: 400px;
+  height: 400px;
+}
+
 .display-1 {
   font-size: calc(1.625rem + 4.5vw);
   font-weight: 300;
