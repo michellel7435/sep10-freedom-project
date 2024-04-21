@@ -518,6 +518,8 @@ progress {
 .future {
   width: 400px;
   height: 400px;
+  margin: 20px;
+  border-radius: 20px;
 }
 
 .display-1 {
