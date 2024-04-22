@@ -500,19 +500,19 @@ progress {
 }
 
 .context {
-  font-size: 20px;
+  font-size: 35px;
   font-weight: 300;
   font-family: Patrick Hand SC;
 }
 
-.future {
-  font-size: 20px;
+.futuretech {
+  font-size: 35px;
   font-weight: 300;
   font-family: Patrick Hand SC;
 }
 
 .exist {
-  font-size: 20px;
+  font-size: 35px;
   font-weight: 300;
   font-family: Patrick Hand SC;
 }
