@@ -506,8 +506,9 @@ progress {
 }
 
 .future {
-
-}
+  font-size: 20px;
+  font-weight: 300;
+  font-family: Patrick Hand SC;
 }
 
 .exist {
