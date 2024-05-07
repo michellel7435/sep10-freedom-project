@@ -510,6 +510,10 @@ progress {
   font-weight: 300;
   font-family: Patrick Hand SC;
 }
+#ongoing {
+  width: 100%;
+  padding: 70px 0;
+}
 .exist-box {
   width: 80%;
   display: flex;
