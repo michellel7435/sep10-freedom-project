@@ -510,7 +510,13 @@ progress {
   font-weight: 300;
   font-family: Patrick Hand SC;
 }
-
+.exist-box {
+  width: 80%;
+  display: flex;
+  flex-wrap:wrap;
+  justify-content:space-around;
+  margin: auto;
+}
 .existing{
   flex-basis: 48%;
   text-align: center;
@@ -543,6 +549,7 @@ opacity: 0;
 transform: translateX(-50%);
 transition: 1s;
 }
+
 
 .future {
   width: 400px;
