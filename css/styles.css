@@ -510,50 +510,16 @@ progress {
   font-weight: 300;
   font-family: Patrick Hand SC;
 }
-#ongoing {
-  width: 100%;
-  padding: 70px 0;
-}
-.exist-box {
-  width: 80%;
-  display: flex;
-  flex-wrap:wrap;
-  justify-content:space-around;
-  margin: auto;
+
+.exist {
+  font-size: 35px;
+  font-weight: 300;
+  font-family: Patrick Hand SC;
 }
 .existing{
-  flex-basis: 48%;
-  text-align: center;
-  margin-bottom: 20px;
-  color: white;
-  position: relative;
   width: 400px;
   height: 400px;
 }
-.overlay {
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  border-radius: 7px;
-  background: linear-gradient(rgba(0,0,0,0,5), #cbc4ee);
-  opacity: 0;
-  transition: 1s;
-}
-.existing:hover .overlay {
-  opacity: 1;
-}
-
-.exist {
-width:80%;
-position: absolute;
-bottom: 0%;
-left: 50%;
-opacity: 0;
-transform: translateX(-50%);
-transition: 1s;
-}
-
 
 .future {
   width: 400px;
