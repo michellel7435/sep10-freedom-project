@@ -38,7 +38,7 @@
 #### Beyond MVP
 
 * Task
-- I need to work on my font because it messes up on mobile screens
-- I need to add my demo
-- I need to fix my columns and rows so it will not be squish together
-- Fix background color
+- [ ] I need to work on my font because it messes up on mobile screens
+- [ ] need to add my demo
+- [ ] need to fix my columns and rows so it will not be squish together
+- [ ] Fix background color
