@@ -1331,7 +1331,7 @@ progress {
     font-size: 30px;
     font-family: Aboreto;
     text-align: center;
-    
+
   }
   .col-lg-7 {
     flex: 0 0 auto;
@@ -1339,6 +1339,10 @@ progress {
     font-size: 30px;
     font-family: Aboreto;
     text-align: center;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+
   }
   .col-lg-8 {
     flex: 0 0 auto;
