@@ -53,6 +53,8 @@
 .col-lg-7 {
     font-family: Aboreto;
     font-size: 40px;
+
+.col-sm-3 {
     display: auto;
     box-sizing: border-box;
     width: 58.33%;
