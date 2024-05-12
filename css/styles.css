@@ -34,7 +34,10 @@
     width: 500px;
     height: 300px;
 }
-
+.exist {
+    font-family: Sniglet;
+    font-size: 25px;
+}
 .future {
     width: 500px;
     height: 300px;
