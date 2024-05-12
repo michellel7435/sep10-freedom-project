@@ -1267,7 +1267,6 @@ progress {
     --bs-gutter-y: 3rem;
   }
 }
-@media (min-width: 992px) {
   .col-lg {
     flex: 1 0 0%
   }
