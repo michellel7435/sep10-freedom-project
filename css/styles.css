@@ -20,8 +20,14 @@
 }
 
 .ol {
-    font-family: Coustard;
+    font-family: Sniglet;
     font-size: 25px;
+}
+
+.context {
+    font-family: Patrick Hand SC;
+    font-size: 35px;
+    font-color:  #f2aeb1:
 }
 
 .existing {
