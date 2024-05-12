@@ -1267,8 +1267,9 @@ progress {
     --bs-gutter-y: 3rem;
   }
 }
+
   .col-lg {
-    flex: 1 0 0%
+    flex: 1 0 0%;
   }
   .row-cols-lg-auto > * {
     flex: 0 0 auto;
@@ -1331,7 +1332,6 @@ progress {
     font-size: 30px;
     font-family: Aboreto;
     text-align: center;
-
   }
   .col-lg-7 {
     flex: 0 0 auto;
@@ -1339,10 +1339,6 @@ progress {
     font-size: 30px;
     font-family: Aboreto;
     text-align: center;
-    border-width: 5px;
-    border-style: solid;
-    border-color: black;
-
   }
   .col-lg-8 {
     flex: 0 0 auto;
