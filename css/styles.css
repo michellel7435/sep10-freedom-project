@@ -9,4 +9,23 @@
 }
 
 
+.col-lg-6 {
+    font-family: Aboreto;
+    font-size: 40px;
+}
+.topic {
+    font-family: Sniglet;
+    font-size: 25px;
+}
 
+.context {
+    font-family: Sniglet;
+    font-size: 25px;
+}
+
+.ol {
+    font-family: Sniglet;
+    font-size: 25px;
+}
+
+.existing
