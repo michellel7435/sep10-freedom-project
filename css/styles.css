@@ -28,4 +28,34 @@
     font-size: 25px;
 }
 
-.existing
+.existing {
+    width: 500px;
+    height: 300px;
+}
+
+.exist {
+    font-family: Sniglet;
+    font-size: 25px;
+}
+
+.future {
+    width: 500px;
+    height: 300px;
+    border-radius: 50px;
+    margin: 20px;
+}
+
+.col-lg-5 {
+    font-family: Aboreto;
+    font-size: 40px;
+}
+
+.col-lg-7 {
+    font-family: Aboreto;
+    font-size: 40px;
+}
+
+.futuretech {
+    font-family: Sniglet;
+    font-size: 25px;
+}
