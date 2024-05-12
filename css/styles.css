@@ -12,23 +12,26 @@
 .col-lg-6 {
     font-family: Aboreto;
     font-size: 40px;
+
 }
 
 .topic {
     font-family: Pompiere;
     font-size: 45px;
+    color: #D97BFF;
 }
 
 .ol {
     font-family: Sniglet;
     font-size: 25px;
-    color: #f5c3c5;
+    color: #E8AFFF;
+
 }
 
 .context {
     font-family: Patrick Hand SC;
     font-size: 35px;
-    color: #f2aeb1;
+    color: #000000;
 }
 
 .existing {
