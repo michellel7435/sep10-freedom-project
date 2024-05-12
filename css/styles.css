@@ -1,4 +1,10 @@
-.introduction {
+.intro {
     font-family: Aboreto;
-    font-size: 10px;
+    font-size: 40px;
+}
+
+.lead {
+    font-family: Sniglet;
+    font-size: 25px;
+}
 }
