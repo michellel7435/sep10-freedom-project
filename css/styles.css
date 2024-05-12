@@ -1,64 +1,10 @@
-.intro {
-    font-family: Aboreto;
-    font-size: 40px;
-}
-
-.lead {
-    font-family: Sniglet;
-    font-size: 25px;
-}
 
 
-.col-lg-6 {
-    font-family: Aboreto;
-    font-size: 40px;
-}
-.topic {
-    font-family: Sniglet;
-    font-size: 25px;
-}
-
-
-.ol {
-    font-family: Sniglet;
-    font-size: 25px;
-}
-
-
-
-.future {
-    width: 500px;
-    height: 300px;
-    border-radius: 50px;
-    margin: 20px;
-}
-
-.col-lg-5 {
-    font-family: Aboreto;
-    font-size: 40px;
-}
-
-
-.col-sm-3 {
-    display: auto;
-    box-sizing: border-box;
-    width: 58.33%;
-}
-
-.futuretech {
-    font-family: Sniglet;
-    font-size: 25px;
-    border-width: 2px;
-    border-style: solid;
-    text-align: center;
-    border-radius:10px;
-}
-
-*{
+* {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family: Sigmar One;
+    font-family: sans sheriff;
 }
 
 .imageshover {
@@ -101,15 +47,17 @@ img {
 }
 
 .content existheader {
-    font-size: 30px;
+    font-size: 70px;
     color: #f5c3c5;
     margin-bottom: 15px;
+    text-align: center;
 }
 
 .content exist {
-    font-size: 19px;
+    font-size: 60px;
     color: #f2aeb1;
     font-family: Patrick Hand SC;
+    text-align: center;
 
 }
 
