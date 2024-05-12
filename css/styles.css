@@ -38,16 +38,18 @@
 .context {
     font-family: Patrick Hand SC;
     font-size: 35px;
-    color: #000000;
+    color: #530771;
 }
 
 .existing {
     width: 500px;
     height: 300px;
 }
+
 .exist {
     font-family: Sniglet;
     font-size: 25px;
+    color: #060D9C;
 }
 
 .future {
