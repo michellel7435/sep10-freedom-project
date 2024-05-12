@@ -6,7 +6,6 @@
 .lead {
     font-family: Sniglet;
     font-size: 25px;
-    font-color: #f5c3c5;
 }
 
 
@@ -15,18 +14,13 @@
     font-size: 40px;
 }
 
-.col-lg-7 {
-    font-family: Aboreto;
-    font-size: 40px;
-}
-
 .topic {
-    font-family: Sniglet;
-    font-size: 25px;
+    font-family: Pompiere;
+    font-size: 45px;
 }
 
 .ol {
-    font-family: Sniglet;
+    font-family: Coustard;
     font-size: 25px;
 }
 
@@ -38,22 +32,12 @@
     font-family: Sniglet;
     font-size: 25px;
 }
+
 .future {
     width: 500px;
     height: 300px;
     border-radius: 50px;
     margin: 20px;
-}
-
-.col-lg-5 {
-    font-family: Aboreto;
-    font-size: 40px;
-}
-
-.col-sm-3 {
-    display: auto;
-    box-sizing: border-box;
-    width: 58.33%;
 }
 
 .futuretech {
