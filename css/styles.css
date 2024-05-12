@@ -64,6 +64,8 @@
     border-radius:10px;
 }
 
-.container {
-    
-}
+@media only screen and (max-width: 768px) {
+    [class*="col-"] {
+        width: 100%;
+      }
+    }
