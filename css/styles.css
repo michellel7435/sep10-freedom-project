@@ -58,4 +58,12 @@
 .futuretech {
     font-family: Sniglet;
     font-size: 25px;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    border-radius:10px;
+}
+
+.container {
+    
 }
