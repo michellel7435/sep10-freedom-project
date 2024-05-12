@@ -54,7 +54,8 @@
     font-family: Aboreto;
     font-size: 40px;
     display: auto;
-    
+    box-sizing: border-box;
+    width: 58.33%;
 }
 
 .futuretech {
