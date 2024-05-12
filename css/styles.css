@@ -978,9 +978,8 @@ progress {
     width: 25%;
   }
   .col-sm-4 {
-    font-size: 30px;
-    font-family: Sniglet;
-    text-align: center;
+    flex: 0 0 auto;
+    width: 33.33333333%;
   }
   .col-sm-5 {
     flex: 0 0 auto;
@@ -1328,8 +1327,7 @@ progress {
     text-align: center;
   }
   .col-lg-6 {
-    flex: 0 0 auto;
-    width: 50%;
+
     font-size: 30px;
     font-family: Aboreto;
     text-align: center;
