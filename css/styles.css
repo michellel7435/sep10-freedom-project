@@ -86,7 +86,7 @@
     text-align: center;
     border-radius:10px;
     border-color: #000000;
-    color: #530771;
+    color: black;
     padding: 20px;
 }
 
@@ -121,8 +121,9 @@
 }
 
 .card {
-    color: white;
+    color: black;
     border-color: black;
+    font-family: Sigmar One;
 }
 .uuy{
     background-color:black;
@@ -133,6 +134,6 @@
 }
 
 .btn-primary {
-    color: White;
+    color: white;
     font-soze: 20px;
 }
