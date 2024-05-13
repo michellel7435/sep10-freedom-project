@@ -63,6 +63,12 @@
     font-family: Sniglet;
     font-size: 25px;
     color: #060D9C;
+    border-width: 2px;
+    border-style: solid;
+    text-align: left;
+    border-radius:10px;
+    border-color: #000000;
+    padding: 20px;
 }
 
 .future {
