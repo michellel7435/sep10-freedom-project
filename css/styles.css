@@ -12,12 +12,6 @@
 .col-lg-6 {
     font-family: Aboreto;
     font-size: 45px;
-    border-width: 2px;
-    border-style: solid;
-    text-align: left;
-    border-radius:10px;
-    border-color: #000000;
-
 }
 
 .topic {
@@ -49,7 +43,7 @@
 
 .context {
     font-family: Patrick Hand SC;
-    font-size: 25px;
+    font-size: 28px;
     color: #530771;
     border-width: 2px;
     border-style: solid;
@@ -60,13 +54,13 @@
 }
 
 .existing {
-    width: 500px;
+    width: 400px;
     height: 300px;
 }
 
 .exist {
     font-family: Sniglet;
-    font-size: 25px;
+    font-size: 20px;
     color: #060D9C;
     border-width: 2px;
     border-style: solid;
