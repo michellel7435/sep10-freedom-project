@@ -30,8 +30,15 @@
 
 .ol1 {
     font-family: Sniglet;
-    font-size: 25px;
+    font-size: 20px;
     color: #f2aeb1;
+    border-width: 2px;
+    border-style: solid;
+    text-align: left;
+    border-radius:10px;
+    border-color: #000000;
+    padding: 20px;
+
 
 }
 
@@ -61,13 +68,14 @@
 
 .futuretech {
     font-family: Sniglet;
-    font-size: 15px;
+    font-size: 20px;
     border-width: 2px;
     border-style: solid;
     text-align: center;
     border-radius:10px;
     border-color: #000000;
     color: #530771;
+    padding: 20px;
 }
 
 .demoo {
