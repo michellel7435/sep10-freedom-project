@@ -61,9 +61,10 @@
 
 .future {
     width: 500px;
-    height: 300px;
+    height: 550px;
     border-radius: 50px;
     margin: 20px;
+    aligh: center;
 }
 
 .futuretech {
@@ -109,5 +110,5 @@
 }
 
 .card-body {
-
+    color: lightgray;
 }
