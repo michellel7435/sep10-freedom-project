@@ -1,5 +1,5 @@
 body {
-    background-color: lightgray;
+    background-color: white;
 }
 
 .intro {
@@ -107,7 +107,7 @@ body {
 .card-body {
     flex: 1 1 auto;
     padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
-    color: var(--bs-card-color);
+    color: var();
 }
 
 .card-title {
