@@ -1,3 +1,5 @@
+
+
 .intro {
     font-family: Aboreto;
     font-size: 40px;
@@ -110,4 +112,8 @@
     margin-bottom: var(--bs-card-title-spacer-y);
 }
 
-.
+.card-subtitle {
+    margin-top: calc(-0.5 * var(--bs-card-title-spacer-y));
+    margin-bottom: 0;
+}
+
