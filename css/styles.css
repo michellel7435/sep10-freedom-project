@@ -46,6 +46,12 @@
     font-family: Patrick Hand SC;
     font-size: 35px;
     color: #530771;
+    border-width: 2px;
+    border-style: solid;
+    text-align: left;
+    border-radius:10px;
+    border-color: #000000;
+    padding: 20px;
 }
 
 .existing {
