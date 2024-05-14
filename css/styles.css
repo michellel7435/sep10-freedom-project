@@ -151,3 +151,11 @@
 .footer {
     width: 100%;
 }
+
+.top {
+    font-size: 100px;
+}
+
+.text {
+    font-size: 50px;
+}
