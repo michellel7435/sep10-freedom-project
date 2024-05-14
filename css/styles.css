@@ -154,8 +154,12 @@
 
 .top {
     font-size: 100px;
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .text {
     font-size: 50px;
+    opacity: 70%;
 }
