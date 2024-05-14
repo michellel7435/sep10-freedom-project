@@ -161,12 +161,14 @@
     background: -webkit-linear-gradient(#eee, #333);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    font-family: Lexend Peta;
 }
 
 .text {
-    font-size: 50px;
+    font-size: 70px;
     opacity: 70%;
     background: -webkit-linear-gradient(#eee, #333);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    font-family: Pompiere;
 }
