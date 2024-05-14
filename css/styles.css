@@ -97,7 +97,7 @@
 }
 
 .show {
-    font-family: Sniglet;
+    font-family: Coustard;
     font-size: 30px;
 }
 
@@ -136,9 +136,4 @@
 .btn-primary {
     color: white;
     font-soze: 20px;
-}
-
-.actual {
-    font-family: Sniglet;
-    font-size: 25px;
 }
