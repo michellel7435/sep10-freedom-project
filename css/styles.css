@@ -137,3 +137,18 @@
     color: white;
     font-soze: 20px;
 }
+
+.section {
+    background-color: lightgray;
+}
+
+.py-5 {
+    size: auto;
+    margin: 20px;
+    padding: 20px;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    border-radius:10px;
+    border-color: #000000;
+}
