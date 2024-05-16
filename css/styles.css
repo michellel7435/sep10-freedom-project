@@ -106,16 +106,6 @@
     height: 500px;
 }
 
-.navbar {
-    font-size: 15px;
-    font-family: Lexend Peta;
-}
-
-.navbar-brand {
-    font-size: 20px;
-    font-family: Lexend Peta;
-}
-
 .container {
     padding: 5px;
 }
@@ -174,4 +164,16 @@
     font-family: Pompiere;
 }
 
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
 
+.navbar-nav li a:hover {
+    color: #2e72a1 !important;
+}
