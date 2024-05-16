@@ -175,19 +175,3 @@
 }
 
 
-.nav_bar {
-    display: flex;
-    justify-context: space-between;
-    width: 100%;
-}
-
-ul {
-    display: flex;
-    gap: 5px;
-}
-
-ul li {
-    list-style: none;
-}
-
-
