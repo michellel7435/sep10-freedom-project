@@ -182,3 +182,9 @@
     font-family: Coustard;
     font-size: 15px;
 }
+
+.collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+  }
