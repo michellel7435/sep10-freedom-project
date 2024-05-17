@@ -174,10 +174,6 @@
     letter-spacing: 5px;
 }
 
-.navbar-nav li a:hover {
-    color: #2e72a1 !important;
-}
-
 .nav-item {
     font-family: Coustard;
     font-size: 15px;
