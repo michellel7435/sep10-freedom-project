@@ -106,7 +106,6 @@
     height: 500px;
 }
 
-
 .container {
     padding: 5px;
 }
@@ -177,4 +176,9 @@
 
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
+}
+
+.nav-item {
+    font-family: Pompiere;
+    font-size: 25px;
 }
