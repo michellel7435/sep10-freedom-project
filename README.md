@@ -9,7 +9,8 @@ For my project, I chose the topic of **neuroendoscopy**.
 I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A-Frame** in order to help me make by website.
 
 ## Purpose Of My Project
-The purpose of my project was to help neurosurgeons with future technologies that are more advanced than the ones we have today.
+The purpose of my project was to help neurosurgeons with future technologies that are more advanced than the ones we have today. My project will be filled with today’s technologies and the future innovations with much information about it. My project is about the brain, ways that can help the brain with advancements of tools.
+
 
 
 ## Links
