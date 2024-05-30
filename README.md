@@ -23,9 +23,9 @@ Blog 7: In class presentation and expo presentation.
 
 ## Links
 
-[Product]()
+[Product](https://michellel7435.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1nhR61BbRQ-zceMzDkzPRqm8PU9MnOT3k_QOU-IT9Bkk/edit?usp=sharing)
 
 ## Implications
 ##### PROS
