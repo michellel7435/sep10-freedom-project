@@ -2,7 +2,8 @@
 ##### 05/29/24
 
 ## Content
-After all the coming up with a topic, researching my topic, planning on how i want my website to be, learning countless codes and new things, learning my tool A Frame, presenting my project to the class and during the expo, I was finally done with everything. During this whole year I was able to learn a lot of new things that were able to benefit me during my school year. Such as the presentation about my finished project on Neuroendoscopy. I have learned so many new things from it. Also during the expo I was able to take what I presented in class and use it during my expo elevator pitch. 
+After all the coming up with a topic, researching my topic, planning on how i want my website to be, learning countless codes and new things, learning my tool A Frame, presenting my project to the class and during the expo, I was finally done with everything. During this whole year I was able to learn a lot of new things that were able to benefit me during my school year. Such as the presentation about my finished project on Neuroendoscopy. I have learned so many new things from it. Also during the expo I was able to take what I presented in class and use it during my expo elevator pitch.                                             
+
 In Class Presentation Takeaways: 
 * I forgot everything I was going to say which messed me up but I still kept going
 * I was able to show more and explaining my website more
@@ -14,7 +15,7 @@ In Class Presentation Takeaways:
 
 The link to my in class presentation is, [neuroendoscopy](https://docs.google.com/presentation/d/1nhR61BbRQ-zceMzDkzPRqm8PU9MnOT3k_QOU-IT9Bkk/edit?usp=sharing).
 
-Expo Takeaways
+Expo Takeaways:
 * I had to be loud and make sure my elevator pitch was interesting
 * Understanding what the judge wants to hear and see
 * I should look directly at them when presenting my work
