@@ -11,7 +11,15 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 ## Purpose Of My Project
 The purpose of my project was to help neurosurgeons with future technologies that are more advanced than the ones we have today. My project will be filled with today’s technologies and the future innovations with much information about it. My project is about the brain, ways that can help the brain with advancements of tools.
 
-
+## My Blogs
+My blogs will be talking about each process of my step as the journey to my freedom project. 
+Blog 1: My first ever blog, this blog is about how I chose this topic, neuroendoscopy. 
+Blog 2: Researching on software and hardware tools for my website.
+Blog 3: Finishing up on the searching of software and hardware tools and moving onto planning on what my future innovation could be.
+Blog 4: In this blog I talk about my tool, A-frame, and how I chose it and why I chose it.
+Blog 5: The journey of learning my tool, A-frame and the struggles with it.
+Blog 6: Laying out the format of my website, desktop and mobile using wireframe.
+Blog 7: In class presentation and expo presentation
 
 ## Links
 
