@@ -29,9 +29,16 @@ Blog 7: In class presentation and expo presentation.
 
 ## Implications
 ##### PROS
-* 
+* Innovations
+  * New AI screens that are far more useful
+  * Faster technology
+  * AI that generates more infoarmtion
+  * Advacement In Technology
+  
 ##### CONS
-* 
+* Financal Issue
+  * Can cost a lot
+  * Might not everyone be able to afford this new treatment
 
 
 ## Blog
